@@ -12,5 +12,6 @@ Il a été créer en même temps que la création du repository
 ## Envoi du lien sur le site d'examen
 
 *Je profite de ce ReadMe pour m'entrainer au Markdown*
+Ce Readme est dans la *branche2*
 
 ### Fin
